@@ -20,3 +20,9 @@ Va sur `http://localhost:5000`
 - Rechercher : Cherche un trajet par son code
 - Filtrer : Filtre par départ, arrivée, type ou prix
 - Statistiques : Voir les prix min/max par ligne
+
+
+
+etudiants : GROUP 09 
+Bakhouche salem 
+Nicky paivha 
