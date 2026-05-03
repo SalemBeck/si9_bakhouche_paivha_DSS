@@ -6,7 +6,6 @@
 
 <xsl:template match="/">
 
-
   <xsl:template match="line">
     <xsl:variable name="dep" select="key('station-by-id', @departure)/@name"/>
     <xsl:variable name="arr" select="key('station-by-id', @arrival)/@name"/>
