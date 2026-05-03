@@ -54,7 +54,6 @@
 </head>
 <body>
 
-<p class="note">TP_Do not copy directly / This page is implemented by the student : ... name ... / Group : ...</p>
 <h1>Train Trips Report</h1>
 
 <xsl:apply-templates select="transport/lines/line"/>
